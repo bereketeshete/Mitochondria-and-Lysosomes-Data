@@ -1,0 +1,62 @@
+
+OMX version:  3.70.9220.0
+OMX system :  Tromso
+Image file:   S:/Ida/H9c2/SIM/20210420_H9C2-dTag_GLU_37C_1520_sim-fast_006.dv
+Created:      Tue Apr 20 9:29:11 2021
+
+Optics:
+  drawer:      = BGR
+  objective:   = 60X
+  lens ID:     = null
+  light path:  = SI
+
+  Time-lapse on:        Yes
+  Time-lapse Hours:     0
+  Time-lapse Minutes:   0
+  Time-lapse Seconds:   5
+  Time-lapse Msecs:     0
+  Total Time Hours:     0
+  Total Time Minutes:   3
+  Total Time Seconds:   15
+  Total Time Msecs:     0
+  Total Time Points:    40
+
+  Sub-time-lapse on          :      No
+
+Image Properties:
+  XY pixels:                 1024 x 1024
+  ZWT dimensions (expected): 17 x 1 x 40
+  angles:                    3
+  nphases:                   5
+  pixel size (um):           0.08 0.08 0.125
+  binning:                   1 x 1
+
+Experiment: 
+  type:                      SI
+  title:                     null
+  type of imaging:           Sequential
+  acquisition order:         All Z then Channel
+  focus point at start:      middle
+
+  Section spacing:           0.125
+  Number of sections:        17
+  Sample thickness:          2.000
+
+  Point Visit:               all
+
+Number of Channels:   1
+
+  channel       = FITC
+  camera        = Camera 2
+  type          = 4
+  temperature   = 3 C
+  mode          = Fast 286MHz
+  gain          = 1
+  exposure      = 5
+  excitation    = 488
+  %T            = 10.0%
+
+-------------------------------------------------------
+
+---------- Experiment Record --------------------------
+
